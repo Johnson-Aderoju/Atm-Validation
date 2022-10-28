@@ -1,0 +1,12 @@
+/home/johnson/Downloads/C programming/AtmValidation/ClassLibrary/bin/Debug/net6.0/ClassLibrary.deps.json
+/home/johnson/Downloads/C programming/AtmValidation/ClassLibrary/bin/Debug/net6.0/ClassLibrary.dll
+/home/johnson/Downloads/C programming/AtmValidation/ClassLibrary/bin/Debug/net6.0/ClassLibrary.pdb
+/home/johnson/Downloads/C programming/AtmValidation/ClassLibrary/obj/Debug/net6.0/ClassLibrary.csproj.AssemblyReference.cache
+/home/johnson/Downloads/C programming/AtmValidation/ClassLibrary/obj/Debug/net6.0/ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnson/Downloads/C programming/AtmValidation/ClassLibrary/obj/Debug/net6.0/ClassLibrary.AssemblyInfoInputs.cache
+/home/johnson/Downloads/C programming/AtmValidation/ClassLibrary/obj/Debug/net6.0/ClassLibrary.AssemblyInfo.cs
+/home/johnson/Downloads/C programming/AtmValidation/ClassLibrary/obj/Debug/net6.0/ClassLibrary.csproj.CoreCompileInputs.cache
+/home/johnson/Downloads/C programming/AtmValidation/ClassLibrary/obj/Debug/net6.0/ClassLibrary.dll
+/home/johnson/Downloads/C programming/AtmValidation/ClassLibrary/obj/Debug/net6.0/refint/ClassLibrary.dll
+/home/johnson/Downloads/C programming/AtmValidation/ClassLibrary/obj/Debug/net6.0/ClassLibrary.pdb
+/home/johnson/Downloads/C programming/AtmValidation/ClassLibrary/obj/Debug/net6.0/ref/ClassLibrary.dll
